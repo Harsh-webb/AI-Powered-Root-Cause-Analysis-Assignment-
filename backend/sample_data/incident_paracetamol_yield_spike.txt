@@ -1,0 +1,22 @@
+INCIDENT / INVESTIGATION REPORT - PHARMACEUTICAL API UNIT
+-----------------------------------------------------------
+Deviation Number: DEV-2026-0842
+Facility: API Synthesis Plant 3 - Reactor Bay B
+Product Name: Paracetamol API (Acetaminophen BP/USP)
+Batch Number: PRC-26-0419
+Date of Incident: 2026-10-24 14:30 IST
+Critical Quality Attribute (CQA): Related Substances Impurity C (4-Aminophenol) > 0.15%
+
+EVENT DESCRIPTION:
+During final QC release testing of Batch PRC-26-0419, HPLC chromatography revealed 4-Aminophenol (Impurity C) at 0.22%, which exceeds the pharmacopeial specification limit of Not More Than (NMT) 0.15%. Additionally, total crude synthesis yield dropped to 68.2% against a historical batch average of 84.5%.
+
+PROCESS & EQUIPMENT OBSERVATIONS:
+At 14:15 during the acetylation stage in glass-lined reactor R-301 (6,000L), the batch operator observed that the reaction temperature spiked to 92.4°C (SOP target limit: 78°C - 82°C). 
+The secondary cooling jacket pneumatic control valve MV-102 failed to open beyond 30% stroke, despite automated DCS demand commanding 100% cooling.
+Shift supervisor noted instrument air pressure on the line had dropped to 3.8 bar (normal: 5.5 bar).
+Shift handover log from the prior night shift did not flag fluctuating pressure.
+
+CONTAINMENT ACTIONS:
+1. Batch PRC-26-0419 immediately placed on QA Quarantine Hold in SAP.
+2. Downstream centrifugation and fluid bed drying halted.
+3. Retention samples of starting material 4-Aminophenol (Lot RM-882) and mother liquor sent for re-assay.

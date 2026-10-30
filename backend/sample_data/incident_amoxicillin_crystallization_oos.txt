@@ -1,0 +1,20 @@
+QUALITY DEVIATION REPORT - BULK STERILE CRYSTALLIZATION
+---------------------------------------------------------
+Deviation Tracking: DEV-2026-0615
+Facility: Sterile & Bulk Crystallization Unit 4
+Product: Amoxicillin Trihydrate Bulk API Powder
+Batch ID: AMX-2026-1102
+Date: 2026-10-26 09:15
+Severity: Major
+
+CRITICAL QUALITY ATTRIBUTE EXCURSION:
+Physical characterization and QC testing of finished crystalline API batch AMX-2026-1102 failed Dissolution Testing at the 15-minute timepoint (71.4% dissolved vs release specification limit: NLT 85.0%). 
+Particle size distribution (PSD) by laser diffraction revealed coarse particle agglomerates with D90 = 142µm (Spec: D90 < 110µm).
+
+INVESTIGATION DETAILS:
+Review of automated SCADA crystallization profiles for Crystallizer CR-402 indicated that during the controlled pH precipitation phase, the variable-frequency drive (VFD) agitator slowed from 180 RPM down to 95 RPM for 42 minutes due to an inverter thermal warning.
+This drop in agitation energy caused localized high super-saturation near the reagent inlet nozzle, inducing excessive secondary nucleation and agglomeration.
+Maintenance logs show the VFD motor cooling fan filter was clogged with dust and had not been cleaned during the last quarterly PM.
+
+CONTAINMENT:
+450 kg of crystallized API quarantined in quarantine staging room. Reprocessing feasibility protocol being drafted by Process R&D.
